@@ -1,0 +1,12 @@
+[2026-03-04 18:04:15,538] 24 root - INFO - Entered the data ingestion method
+[2026-03-04 18:04:15,541] 27 root - INFO - Database read as dataframe
+[2026-03-04 18:04:15,545] 32 root - INFO - Train test split initiated
+[2026-03-04 18:04:15,550] 39 root - INFO - ingestion of the data is completed
+[2026-03-04 18:04:15,567] 65 root - INFO - Read the train and test data
+[2026-03-04 18:04:15,567] 67 root - INFO - Obtaining the preprocessing object
+[2026-03-04 18:04:15,567] 44 root - INFO - Numerical Columns scaling Completed
+[2026-03-04 18:04:15,568] 46 root - INFO - Categorical Columns encoding completed
+[2026-03-04 18:04:15,573] 53 root - INFO - Preprocessed
+[2026-03-04 18:04:15,574] 80 root - INFO - Applying preprocessing
+[2026-03-04 18:04:15,589] 94 root - INFO - saving the preprocessed object
+[2026-03-04 18:04:15,592] 22 root - INFO - pickle file created
